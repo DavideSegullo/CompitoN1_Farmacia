@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1525524689 source:c:\users\theda\desktop\progetti c\esercizio_farmacia_n1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
